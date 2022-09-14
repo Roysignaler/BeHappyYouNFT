@@ -36,6 +36,6 @@
         "dev-server": "encore dev-server",
         "dev": "encore dev",
         "watch": "encore dev --watch",
-        "build": "encore build --output public"
+        "build": "react-scripts build --output public"
     }
 }
