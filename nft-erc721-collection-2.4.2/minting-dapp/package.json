@@ -36,6 +36,6 @@
         "dev-server": "encore dev-server",
         "dev": "encore dev",
         "watch": "encore dev --watch",
-        "build": "[my-framework] build --output public"
+        "build": "encore build --output public"
     }
 }
